@@ -108,8 +108,7 @@ def exibir_curriculo():
     # Referências Profissionais
     st.header("Referências Profissionais")
     st.write("""
-        **João ** - Gerente na Empresa XYZ | joao@empresa.com
-        **Maria ** - Coordenadora na Empresa ABC | maria@empresa.com
+        
     """)
 
 # Função para exibir a seção "Portfólio"
